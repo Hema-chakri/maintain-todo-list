@@ -1,7 +1,7 @@
 /* Write your CSS here */
 .app-container {
   background-color: #ffc2a0;
-  background-size: cover;
+  height: 100vh;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 40px;
